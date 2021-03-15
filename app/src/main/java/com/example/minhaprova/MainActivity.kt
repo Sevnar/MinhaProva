@@ -47,6 +47,11 @@ class MainActivity : AppCompatActivity() {
                 val requestCode = 2
                 startActivityForResult(intent, requestCode)
             }
+
+            button4.setOnClickListener{
+                intent = Intent(this@MainActivity, ActivityAcao3::class.java)
+                startActivity(intent)
+            }
         }
     }
 

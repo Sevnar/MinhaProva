@@ -2,9 +2,11 @@
     <string name="app_name">MinhaProva</string>
     <string name="button1">Primeira Ação</string>
     <string name="button2">Café</string>
-    <string name="button3">BDzão</string>
-    <string name="button4">Button4</string>
+    <string name="button3">Inserir Livro</string>
+    <string name="button4">Ver banco de livros</string>
     <string name="buttonOk">OK</string>
+    <string name="buttonAnterior">Anterior</string>
+    <string name="buttonProximo">Próximo</string>
     <string name="buttonCancelar">Cancelar</string>
     <string name="textView1">Texto 1</string>
     <string name="textView2">Texto 2</string>
